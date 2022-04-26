@@ -4,8 +4,6 @@
 
 I am a Junior Full-Stack Web Developer. I'm passionate about Front-end and all the tools that that compreden, although I'm also comfortable back-end as well. I consider myself a resolute, dynamic, responsible and always motivated by learning.
 
-My professional career has been related to security related to security and customer service, committed to the success of the team and company.
-
 On a personal level, my interests are sports, nature, traveling, movies and reading.
 
 
